@@ -9,6 +9,7 @@ O projeto possui as seguintes funcionalidades:
 - Carregamento inicial de Pokémon: Quando a página é carregada, ela exibe uma lista inicial de Pokémon.
 - Carregamento adicional de Pokémon: Um botão "Load More" permite carregar mais Pokémon à medida que o usuário clica nele.
 - Exibição de detalhes do Pokémon: Cada Pokémon exibido na lista inclui seu número, nome, tipo(s) e uma imagem.
+- Ao clicar em um pokemon é possivel ver sua descrição mais detalhada.
 
 ## Como Usar
 
